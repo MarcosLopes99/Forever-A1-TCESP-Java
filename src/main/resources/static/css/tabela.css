@@ -1,0 +1,47 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto" , sans-serif;
+  font-weight: 200;
+}
+
+
+body, a, li{
+ text-decoration: none;
+ list-style: none;  
+}
+.wrapper{
+  width: 120rem;
+  max-width: 90%;
+  display: block; 
+}
+#logo{
+  width: 64px;
+  max-width: 100%;
+}
+
+.navbar-nav{
+  color: aliceblue;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+}
+
+/* container página */
+
+.tabela{
+    margin-top: 10rem;
+}
+.fa-check{
+  color: green;
+ 
+}
+.fa-exclamation-triangle{
+  color: orange;
+}
+.fa-times{
+  color: red;
+}
+
+
