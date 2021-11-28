@@ -2,6 +2,8 @@
 Projeto avaliativo acadêmico em parceria com o Tribunal de Contas do Estado de São Paulo (TCESP). Página Web para recuperação de dados de despesas de municípios do estado.
 Também é possível fazer uma organização dos municípios que já tiveram suas despesas checadas pelo TCESP ou que apresentam algum tipo erro ao apresentar esses dados em seus Portais da Transparência.
 
+Uso de banco de dados MySQL, Hibernate, Spring Boot e outras dependências.
+
 ## DESCRIÇÃO DO PROJETO:
 O estado de São Paulo possui muitos municípios, e por lei, todos eles devem disponibilizar dados referentes as suas despesas mensais em seus Portais da Transparência para que a população possa ter acesso à essas informações.
 
