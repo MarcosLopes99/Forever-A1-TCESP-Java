@@ -14,6 +14,10 @@ Possibilitamos que as despesas sejam recuperadas de um lugar só, através de um
 Também criamos uma tabela de checagem, onde é possível adicionar os diversos municípios do estado de São Paulo e manter um controle sobre quais já tiveram suas despesas e portais da transparência checados, quando foram checados, por qual fiscal foram checados e também se apresentam algum tipo de erro que precisa ser corrigido. 
 
 
+## API:
+A API utilizada pertence ao TCESP e pode ser encontrada no seguinte link: https://transparencia.tce.sp.gov.br/apis
+
+
 ## TELAS:
 
 
